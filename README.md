@@ -4,8 +4,8 @@
 </p>
 
 
-MY PORTFOLIO:
-HERE -> LINK 
+MY Linkedln :
+<a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="csharp" width="20" height="20"/></a> [ Link ](https://www.linkedin.com/in/cristhian-taipe2024/)
 
 ### I am interested in:
 - Cybersecurity | Ethical hacking
@@ -14,7 +14,7 @@ HERE -> LINK
 
 ### Interests
 
-<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"></a>
+<a href="https://archlinux.org/"><img src="https://i.postimg.cc/8zbXyg1X/1200px-Arch-Linux-logo-svg.png" height="20%" width="20%"> Link </a> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
