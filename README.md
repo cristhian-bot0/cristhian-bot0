@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  <img src="Foto-Perfil2.png" height="100%" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Ethical+Hacker;CTF+Player;Arch+Linux+User;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
